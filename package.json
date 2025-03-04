@@ -1,0 +1,17 @@
+{
+  "name": "backstage-dify-integration",
+  "version": "1.0.0",
+  "dependencies": {
+    "@backstage/core": "^0.7.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "yarn": "^1.22.17"
+  },
+  "scripts": {
+    "dev": "backstage-cli dev"
+  }
+}

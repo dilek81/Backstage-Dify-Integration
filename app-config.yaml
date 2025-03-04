@@ -1,0 +1,6 @@
+app:
+  title: 'Backstage with Dify Integration'
+  api:
+    difyApi:
+      url: 'https://api.dify.com/v1/'
+      apiKey: ${DIFY_API_KEY}
