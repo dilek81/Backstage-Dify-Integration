@@ -34,3 +34,5 @@ This project integrates Backstage with Dify (an AI UI platform) to create a more
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+There are some issues but it works 
